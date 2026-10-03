@@ -5,7 +5,7 @@ import java.util.Observable;
  * The HanoiSolver class represents the Tower of Hanoi game logic.
  * It manages three towers (left, center, right) and a number of disks.
  * 
- * @author G.J. Hu
+ * @author George Hu
  * @version 2025.08.14
  */
 public class HanoiSolver extends Observable
