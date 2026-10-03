@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * This class tests the Disk class for correct output.
  * It verifies that the class does what it is expected to do.
  *
- * @author G.J. Hu
+ * @author George Hu
  * @version 2025.08.14
  */
 
