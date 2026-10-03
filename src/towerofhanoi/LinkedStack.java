@@ -7,7 +7,7 @@ import stack.StackInterface;
  * in addition to the size and to String methods, allowing for changes in 
  * stacks.
  *
- * @author G.J. Hu
+ * @author George Hu
  * @version 2025.08.14
  * @param <T> 
  */
