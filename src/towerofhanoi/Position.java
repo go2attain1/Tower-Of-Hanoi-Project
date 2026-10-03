@@ -3,7 +3,7 @@ package towerofhanoi;
 /**
  * Represents all the possible positions in the Tower of Hanoi game.
  * 
- * @author G.J. Hu
+ * @author George Hu
  * @version 2025.08.14
  *
  */
