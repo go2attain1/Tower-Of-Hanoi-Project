@@ -7,7 +7,7 @@ import cs2.Shape;
  * Each disk has a width and a fixed height, and 
  * can be compared to other disks based on width.
  *
- * @author G.J. Hu
+ * @author George Hu
  * @version 2025.08.14
  */
 public class Disk extends Shape implements Comparable<Disk>
