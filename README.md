@@ -1,4 +1,4 @@
-# Tower of Hanoi
+# Tower of Hanoi Project
 
 A Java implementation of the classic Tower of Hanoi puzzle, built around a custom linked-list `LinkedStack` and a recursive solver. A Swing-based window animates each disk move as the algorithm runs.
 
